@@ -1,4 +1,4 @@
-# Comment soumettre sa candidature pour BiblioTECH
+# Soumettre sa candidature pour BiblioTECH
 [Retour vers la page d'accueil](https://code4libmontreal.github.io/Programme-BiblioTECH/)
 
 ## Le processus
