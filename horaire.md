@@ -23,7 +23,7 @@ Présentations, plan de la semaine, procédures pour les heures de bureau et les
 #### 12 h 45 - 13 h 45 <br>
 <details>
   <summary>Description</summary>
-Cet atelier présentera les meilleures pratiques pour une gestion efficace des données pendant le processus de recherche. Les participant·e·s découvriront des trucs et astuces, ainsi que des exemples, pour mieux organiser les données dans des fichiers et des dossiers, créer une organisation des dossiers et de la documentation README (parfois, LISEZ-MOI) pour créer une cartographie des arborescences, ainsi que mettre en place une convention de nommage.
+Cet atelier présentera les meilleures pratiques pour une gestion efficace des données pendant le processus de recherche. Les participant·e·s découvriront des trucs et astuces, ainsi que des exemples, pour mieux organiser les données dans des fichiers et des dossiers, créer une organisation des dossiers et de la documentation README (parfois, LISEZ-MOI) pour une cartographie des arborescences, ainsi que mettre en place une convention de nommage.
       </details>
       
 ### Git et GitHub — Scott Goldstein
@@ -127,7 +127,7 @@ Cet atelier présentera les concepts clés de la préservation numérique et une
 
 <details>
   <summary>Description</summary>
-Cet atelier présentera les fondements de l’archivage Web en comparant deux outils fréquemment utilisés par les archivistes, <a href="https://archive-it.org/">Archive-It</a> et <a href="https://conifer.rhizome.org/">Conifer</a>. L’atelier couvrira les bases terminologiques et conceptuelles de l’archivage Web, ainsi que, à travers des activités pratiques, les atouts et rouages de chacun des outils. En plus, les conférencières if both identify as female? parleront des défis qu’elles again re : gender ont surmontés dans la création de collections Web. 
+Cet atelier présentera les fondements de l’archivage Web en comparant deux outils fréquemment utilisés par les archivistes, <a href="https://archive-it.org/">Archive-It</a> et <a href="https://conifer.rhizome.org/">Conifer</a>. L’atelier couvrira les bases terminologiques et conceptuelles de l’archivage Web, ainsi que, à travers des activités pratiques, les atouts et rouages de chacun des outils. En plus, les conférencières parleront des défis qu’elles ont surmontés dans la création de collections Web. 
   </details>
 
 ### Mot de la fin
