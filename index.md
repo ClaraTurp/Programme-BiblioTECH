@@ -1,4 +1,4 @@
-# Bienvenue sur le site de BiblioTECH
+# Bienvenue à BiblioTECH
 [Click here to access the English-language website](https://code4libmontreal.github.io/BiblioTECH/)<br>
 
 ## August 8th 2022 - August 12th 2022.
