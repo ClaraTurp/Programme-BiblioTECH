@@ -12,5 +12,5 @@ Nous acceptons les dossiers de candidature des étudiant·e·s présentement ins
 
 ## Calendrier
 * Avril 2022: appel à candidatures
-* Mai: fin de la période de candidatures
+* 9 mai 2022, 23 h 59 heure de l’est: fin de la période de candidatures
 
