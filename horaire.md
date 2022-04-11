@@ -8,7 +8,8 @@
 4. [Jour 4 : 11 août](#jeudi)
 5. [Jour 5 : 12 août](#vendredi)
 
-## Lundi 8 août 2022 <a name=“Lundi”></a>
+
+## Lundi 8 août 2022 <a name="Lundi"></a>
 
 ### Accueil
 #### 11 h 30 - 12 h 30 <br>
@@ -36,7 +37,7 @@ Des premiers pas avec Git/GitHub. Cet atelier ne permettra pas de développer un
 ### Heures de bureau (consultations libres)
 #### 17 h 30 - 18 h
 
-## Mardi 9 août 2022 <a name=“Mardi”></a>
+## Mardi 9 août 2022 <a name="Mardi"></a>
 
 ### Accueil quotidien
 #### 12 h - 12 h 30 <br>
@@ -57,7 +58,7 @@ Les conférencier·ère·s parleront de leur parcours, de la MSI/MIS à leur emp
 ### Heures de bureau (consultations libres)
 #### 17 h 30 - 18 h
 
-## Mercredi 10 août 2022 <a name=“Mercredi”></a>
+## Mercredi 10 août 2022 <a name="Mercredi"></a>
 
 ### Accueil quotidien
 #### 12 h - 12 h 30 <br>
@@ -76,7 +77,7 @@ Les conférencier·ère·s échangeront sur ce qu’ils et elles auraient aimé 
 ### Heures de bureau (consultations libres)
 #### 16 h 30 - 17 h 30 
 
-## Jeudi 11 août 2022 <a name=“Jeudi”></a>
+## Jeudi 11 août 2022 <a name="Jeudi"></a>
 
 ### Accueil quotidien
 #### 12 h - 12 h 30 <br>
@@ -100,7 +101,7 @@ Une introduction à Python. Vous créerez du code en utilisant une méthode prat
 ### Heures de bureau (consultations libres)
 #### 16 h 30 - 17 h 30 
 
-## Vendredi 12 août 2022 <a name=“Vendredi”></a>
+## Vendredi 12 août 2022 <a name="Vendredi"></a>
 
 ### Accueil quotidien
 #### 12 h - 12 h 30 <br>
