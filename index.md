@@ -6,7 +6,7 @@
 Code4Lib Mtl est fier d’annoncer le premier ***Programme Jumpstart BiblioTECH***, qui se tiendra du 8 août au 12 août 2022.
 Ce programme bilingue d’une semaine est spécialement conçu pour les étudiant·e·s de la maîtrise en sciences de l’information du Québec (Canada). BiblioTECH se déroulera virtuellement, sur la plateforme Zoom. Ce programme est inspiré du [Library Technology career Jumpstart Program at North Carolina State University](https://www.lib.ncsu.edu/jumpstart). <br>
 <br>
-[Apply](https://surveys.mcgill.ca/ls3/447491?lang=fr){: .btn .btn-blue }{:target='_blank'}
+[Candidature](https://surveys.mcgill.ca/ls3/447491?lang=fr){: .btn .btn-blue }{:target='_blank'}
 <br>
 
 **Grâce à ce programme, les participant·e·s pourront découvrir**
@@ -27,6 +27,6 @@ Ce programme bilingue d’une semaine est spécialement conçu pour les étudian
 * Le programme est bilingue (anglais et français) selon le format suivant : chaque activité sera offerte dans une des deux langues et la documentation sera offerte dans les deux langues.
 * Cette première édition est un projet-pilote; nous demanderons donc une rétroaction aux participant·e·s. 
 * Le programme sera entièrement en ligne, sur Zoom.
-* Nous accepterons un maximum de 15 participant·e·s
+* Nous accepterons un maximum de 15 participant·e·s.
 
 
