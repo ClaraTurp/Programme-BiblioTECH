@@ -127,7 +127,7 @@ Cet atelier présentera les concepts clés de la préservation numérique et une
 
 <details>
   <summary>Description</summary>
-Cet atelier présentera les fondements de l’archivage Web en comparant deux outils fréquemment utilisés par les archivistes, <a href="https://archive-it.org/">Archive-It</a> et <a href="https://conifer.rhizome.org/">Conifer</a>. L’atelier couvrira les bases terminologiques et conceptuelles de l’archivage Web, ainsi que, à travers des activités pratiques, les atouts et rouages de chacun des outils. En plus, les conférencières parleront des défis qu’elles ont surmontés dans la création de collections Web. 
+Cet atelier présentera les fondements de l’archivage Web en comparant deux outils fréquemment utilisés par les archivistes, <a href="https://archive-it.org/">Archive-It</a> et <a href="https://conifer.rhizome.org/">Conifer</a>. L’atelier couvrira les bases terminologiques et conceptuelles de l’archivage Web, ainsi que les atouts et rouages de chacun des outils. En plus, les conférencières parleront des défis qu’elles ont surmontés dans la création de collections Web. 
   </details>
 
 ### Mot de la fin
