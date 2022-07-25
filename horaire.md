@@ -70,12 +70,9 @@ Les conférencier·ère·s parleront de leur parcours, de la MSI/MIS à leur emp
   <summary>Description</summary>
 Les conférencier·ère·s échangeront sur ce qu’ils et elles auraient aimé savoir avant de se lancer dans leurs rôles actuels. Chaque personne présentera une situation dans laquelle elle s’est sentie démunie et comment elle a réussi à régler les choses — ou en tout cas, à tirer partie de cette expérience.
   </details>
-  
-### Période de questions
-#### 15 h - 16 h 
 
 ### Heures de bureau (consultations libres)
-#### 16 h 30 - 17 h 30 
+#### 15 h - 17 h 30 
 
 ## Jeudi 11 août 2022 <a name="jeudi"></a>
 
