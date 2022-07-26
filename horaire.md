@@ -89,6 +89,7 @@ Une discussion ouverte et sans détour sur ce que les conférencier·ère·s rec
   
 ### Python — Clara Turp
 #### 15 h - 16 h et 16 h 15 - 17 h 15 
+[Lien vers la documentation de l'atelier sur GitHub](https://github.com/Code4LibMontreal/IntroductionPython)
 
 <details>
   <summary>Description</summary>
