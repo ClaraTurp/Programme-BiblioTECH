@@ -69,6 +69,13 @@ Robin Desmeules est bibliothécaire en catalogage à l'Université McGill depuis
 ### Le grand ménage des données : Excel — Carolyn Pecoskie
 #### 15 h à 16 h 
 <details>
+  <summary>Description</summary>
+L’objectif de l’atelier d’aujourd’hui est de vous présenter des trucs, astuces et outils utiles dans Excel, pour commencer à guider votre travail avec Excel en tant que professionnel de l’information. Cette session ne sera en aucun cas exhaustive, en terms de couverture de tout ce dont vous pourriez avoir besoin dans Excel, mais nous espérons qu’à la fin de la session, vous pourrez :
+<ul><li>Être conscient d’une gamme d’outils et de fonctions qui (d’après l’expérience de la présentatrice) sont très utiles pour le travail de la bibliothèque</li>
+<li>Soyez au courant de quelques trucs et astuces utiles pour gagner du temps et tirer le meilleur parti de ce qu’Excel peut faire pour vous</li>
+<li>Soyez plus confiant dans votre capacité à naviguer dans Excel et à consulter Google, le site d’aide de Microsoft Excel et d’autres sources chaque fois que vous avez besoin de trouver un nouvel outil ou une nouvelle fonction ou de résoudre une erreur</li></ul>
+  </details>
+<details>
   <summary>Biographie de présentatrice</summary>
 Carolyn Pecoskie travaille comme bibliothécaire des métadonnées et des ressources électroniques à l'Université McGill depuis fevrier 2020. Avant de se joindre à McGill, Carolyn a travaillé comme bibliothécaire médicale au système hopitalier Trillium Health Partners à Mississauga, en Ontario. Elle est diplômée du programme « Master of Information » de l'Université de Toronto. Carolyn aime chercher de nouvelles façons créatives d'appliquer la technologie pour maintenir les collections des ressources électronqiues de McGill et travailler sur des projets de nettoyage et de migration des métadonnées. Ses intérêts professionnels incluent l'automatisation et les solutions programmatiques pour la gestion des ressources électroniques ; explorer les impacts environnementaux des bibliothèques et des collections ; et des opportunités de mentorat pour la bibliothéconomie. 
   </details>
