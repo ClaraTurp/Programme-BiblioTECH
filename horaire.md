@@ -88,7 +88,7 @@ Robin Desmeules est bibliothécaire en catalogage à l'Université McGill depuis
 ### Accueil quotidien
 #### 12 h - 12 h 30 <br>
 
-### Table ronde : si j’avais su - Aline Credeville, Anna Dysert, Ève Paquette-Bigras, Mireille Léger Rousseau et Sarah Lake, animée par Sandy Hervieux
+### Table ronde : si j’avais su - Aline Credeville, Anna Dysert, Ève Paquette-Bigras et Sarah Lake, animée par Sandy Hervieux
 #### 12 h 45 - 13 h 45 
 
 <details>
@@ -102,7 +102,6 @@ Anna Dysert est bibliothécaire associée à la bibliothèque de l'Université
 McGill, où elle se spécialise dans les métadonnées et le catalogage des 
 collections spéciales et des archives. Elle est titulaire d'une maîtrise du Centre d'études médiévales et du Book History & Print Culture Program de l'Université de Toronto, ainsi que d'un MLIS en études archivistiques de l'Ecole des études de l'information à McGill.<br><br>
 Ève Paquette-Bigras est bibliothécaire en gestion des données de recherche aux bibliothèques de l’Université de Montréal depuis 2018. Elle a précédemment occupé un poste de bibliothécaire-conseil pour la Faculté de sciences et génie à la Bibliothèque de l’Université Laval. Elle est impliquée dans le Réseau Portage, maintenant intégré à l’Alliance de recherche numérique du Canada, depuis plusieurs années. Détentrice d’un baccalauréat en informatique et génie logiciel (UQAM, 2007) et d’une maitrise en sciences de l’information (Université de Montréal, 2013), elle est maintenant candidate au doctorat en sciences de l’information à l’Université de Montréal. Elle est à ce titre membre étudiante du Centre interuniversitaire de recherche sur la science et la technologie.<br><br>
-Mireille Léger-Rousseau est bibliothécaire formatrice à l’Université de Sherbrooke depuis 2019. Elle s’intéresse notamment à l’innovation en bibliothèque universitaire, aux enjeux de la publication scientifique et à la formation à distance. Dans les dernières années, elle a contribué à mettre sur pied un programme de formations documentaires publiques et un service de soutien à la gestion des données de recherche.<br><br>
 Sarah Lake est la bibliothécaire responsable de la préservation numérique à l'Université Concordia, où elle supervise l'infrastructure et les projets de préservation numérique. Elle offre régulièrement des ateliers sur l'archivage web et s'est récemment jointe au Comité de coordination de la Coalition canadienne de l’archivage Web. Elle est détentrice d'une maîtrise en sciences de l'information (MIS) de McGill et d'un baccalauréat en arts de l'Université Concordia. 
   </details>
 
