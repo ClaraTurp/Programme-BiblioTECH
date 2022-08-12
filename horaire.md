@@ -157,19 +157,20 @@ Clara Turp est la bibliothécaire des systèmes de découvertes de la Bibliothè
 ### Accueil quotidien
 #### 12 h - 12 h 30 <br>
 
-### Vitrine de technologies - Alisa Rod, Andrew Senior, Scott Goldstein et Jessica Lange, animée par Anton Boudreau Ninkov
+### Vitrine de technologies - Alisa Rod, Andrew Senior et Carolyn Pecoskie, Jessica Lange et Scott Goldstein, animée par Anton Boudreau Ninkov
 #### 12 h 45 - 13 h 45 
 
 <details>
   <summary>Description</summary>
-Des présentations dynamiques lors desquelles les conférencier·ère·s feront des démonstrations des technologiques les plus utiles à leurs tâches ou de technologies maison dont elles et ils se servent dans le cadre de leurs emplois.
+Des présentations dynamiques lors desquelles les conférencier·ère·s feront des démonstrations des technologiques les plus utiles à leurs tâches ou de technologies maison dont elles et ils se servent dans le cadre de leurs emplois. Les technologies comprennent Borealis Dataverse, EZproxy, Samvera et SpringShare LibApps.
   </details>
 <details>
   <summary>Biographies des présentateurs</summary>
 Alisa Beth Rod, PhD, est experte en gestion des données de recherche à la bibliothèque de l'Université McGill. Elle détient une maîtrise et un doctorat en sciences politiques de la University of California à Santa Barbara, ainsi qu'un baccalauréat en bioéthique de la American Jewish University. Elle est actuallement inscrite au programme de maîtrise en sciences de l'information de McGill. Avant de se joindre à l'équipe de McGill, Alisa a occupé les postes de responsable méthodologique des sondages à Ithaka S+R, puis de directrice associée à la Empirical Reasoning Center au collège Barnard de Columbia University. <br><br>
 Andrew Senior est bibliothécaire agrégé et coordonnateur des ressources numériques et des périodiques au service des collections de la bibliothèque de l'Université McGill. Avant 2013, il occupait un poste de catalogueur à la Marvin Duchow Music Library. Ses recherches portent sur les données liées et sur la modélisation des ressources continues, l'utilisation des collections numériques, les technologies mobiles, et les flux de ressources numériques. Il est membre du sous-comité des droits aux bases de connaissances du RCDR, ainsi que du comité permanent KBART de NISO.<br><br>
-Scott Goldstein est le coordonnateur des services web et des technologies à la bibliothèque de l'Université McGill.<br><br>
-Jessica Lange est la bibliothécaire en communication savante à McGill. Elle offre donc à la communauté des services dans les domaines de l'accès libre, l'édition, les droits d'auteur, et les ressources éducatives libres (REL). Elle est également gestionnaire du dépôt institutionnel de McGill, ainsi que de son programme de publications savantes. Ses recherches portent notamment sur les publications savantes et l'accès libre. 
+Carolyn Pecoskie travaille comme bibliothécaire des métadonnées et des ressources électroniques à l'Université McGill depuis fevrier 2020. Avant de se joindre à McGill, Carolyn a travaillé comme bibliothécaire médicale au système hopitalier Trillium Health Partners à Mississauga, en Ontario. Elle est diplômée du programme « Master of Information » de l'Université de Toronto. Carolyn aime chercher de nouvelles façons créatives d'appliquer la technologie pour maintenir les collections des ressources électronqiues de McGill et travailler sur des projets de nettoyage et de migration des métadonnées. Ses intérêts professionnels incluent l'automatisation et les solutions programmatiques pour la gestion des ressources électroniques ; explorer les impacts environnementaux des bibliothèques et des collections ; et des opportunités de mentorat pour la bibliothéconomie.<br><br>
+Jessica Lange est la bibliothécaire en communication savante à McGill. Elle offre donc à la communauté des services dans les domaines de l'accès libre, l'édition, les droits d'auteur, et les ressources éducatives libres (REL). Elle est également gestionnaire du dépôt institutionnel de McGill, ainsi que de son programme de publications savantes. Ses recherches portent notamment sur les publications savantes et l'accès libre.<br><br> 
+Scott Goldstein est le coordonnateur des services web et des technologies à la bibliothèque de l'Université McGill.
   </details>
 
 ### Archivage Web — Sarah Lake et Adria Seccareccia
