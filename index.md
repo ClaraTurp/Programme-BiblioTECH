@@ -4,16 +4,16 @@ nav_order: 1
 # Bienvenue à BiblioTECH
 [Click here to access the English-language website](https://code4libmontreal.github.io/BiblioTECH/)<br>
 
-## 8 août 2022 - 12 août 2002.
+## 31 juillet 2023 - 4 août 2023
 ### À propos de BiblioTECH
-Code4Lib Mtl est fier d’annoncer le premier ***Programme Jumpstart BiblioTECH***, qui se tiendra du 8 août au 12 août 2022.
-Ce programme bilingue d’une semaine est spécialement conçu pour les étudiant·e·s de la maîtrise en sciences de l’information du Québec (Canada). BiblioTECH se déroulera virtuellement, sur la plateforme Zoom. Ce programme est inspiré du [Library Technology career Jumpstart Program at North Carolina State University](https://www.lib.ncsu.edu/jumpstart). <br>
+Code4Lib Mtl est fier d’annoncer le deuxième ***Programme Jumpstart BiblioTECH***, qui se tiendra du 31 juillet au 4 août 2023.
+Ce programme d’une semaine est spécialement conçu pour les étudiant·e·s de la maîtrise en sciences de l’information du Québec (Canada), et sera proposé principalement en anglais, avec un soutien important en français. BiblioTECH se déroulera virtuellement, sur la plateforme Zoom. Ce programme est inspiré du [Library Technology career Jumpstart Program at North Carolina State University](https://www.lib.ncsu.edu/jumpstart). <br>
 <br>
 [Candidature](https://surveys.mcgill.ca/ls3/447491?lang=fr){: .btn .btn-blue }{:target='_blank'}
 <br>
 
 **Grâce à ce programme, les participant·e·s pourront découvrir**
-* Des compétences technologiques fondamentales dans Git, Excel, OpenRefine et Python
+* Des compétences technologiques fondamentales dans Command Line, Git, Excel, OpenRefine et Python
 * Des concepts clés, comme la gestions de données de recherche et la préservation numérique
 * Le vaste éventail de possibilités d’emplois reliés aux technologies dans les bibliothèques et les archives
 
@@ -27,8 +27,8 @@ Ce programme bilingue d’une semaine est spécialement conçu pour les étudian
 
 ### Information importante
 * Le programme est gratuit!
-* Le programme est bilingue (anglais et français) selon le format suivant : chaque activité sera offerte dans une des deux langues et la documentation sera offerte dans les deux langues.
-* Cette première édition est un projet-pilote; nous demanderons donc une rétroaction aux participant·e·s. 
+* Le programme est proposé en anglais avec un soutien important pour les apprenants français. La plupart des sessions seront présentées en anglais, avec des notes et des heures de bureau en français. Dans la mesure du possible, la documentation écrite des sessions sera proposée dans les deux langues (anglais et français).
+* Cette deuxième édition est un projet-pilote; nous demanderons donc une rétroaction aux participant·e·s. 
 * Le programme sera entièrement en ligne, sur Zoom.
 * Nous accepterons un maximum de 15 participant·e·s.
 
