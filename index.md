@@ -2,7 +2,7 @@
 nav_order: 1
 ---
 # Bienvenue à BiblioTECH
-[Click here to access the English-language website](https://code4libmontreal.github.io/BiblioTECH/)<br>
+[Click here to access the English-language website](https://surveys.mcgill.ca/ls3/557326?lang=fr)<br>
 
 ## 31 juillet 2023 - 4 août 2023
 ### À propos de BiblioTECH
