@@ -1,3 +1,6 @@
+---
+nav_order: 2
+---
 # Soumettre sa candidature
 [Retour vers la page d'accueil](https://code4libmontreal.github.io/Programme-BiblioTECH/)
 

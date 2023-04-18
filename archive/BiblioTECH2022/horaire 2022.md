@@ -1,3 +1,7 @@
+---
+parent: Archive
+nav_order: 3
+---
 # Horaire de 2022
 [Retour vers la page d'accueil](https://code4libmontreal.github.io/Programme-BiblioTECH/)
 
