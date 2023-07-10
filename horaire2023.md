@@ -15,8 +15,8 @@ nav_order: 3
 ## Lundi 31 juillet 2023 <a name="lundi"></a>
 
 ### Accueil
-11 h 30 - 12 h 30 
-Anglais / Français 
+### 11 h 30 - 12 h 30 
+#### Anglais / Français 
 <details>
   <summary>Description</summary>
 À venir<!---Présentations, plan de la semaine, procédures pour les heures de bureau et les contenus asynchrones.-->
