@@ -16,7 +16,7 @@ nav_order: 3
 
 ### Accueil
 #### 11 h 30 - 12 h 30 <br>
-##### Anglais / Français 
+#### Anglais / Français 
 <details>
   <summary>Description</summary>
 À venir<!---Présentations, plan de la semaine, procédures pour les heures de bureau et les contenus asynchrones.-->
