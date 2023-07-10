@@ -1,11 +1,11 @@
 ---
 parent: Archive
-nav_order: 1
+nav_order: 5
 ---
 # Bienvenue à BiblioTECH
 [Click here to access the English-language website](https://code4libmontreal.github.io/BiblioTECH/)<br>
 
-## 8 août 2022 - 12 août 2002.
+## 8 août 2022 - 12 août 2022.
 ### À propos de BiblioTECH
 Code4Lib Mtl est fier d’annoncer le premier ***Programme Jumpstart BiblioTECH***, qui se tiendra du 8 août au 12 août 2022.
 Ce programme bilingue d’une semaine est spécialement conçu pour les étudiant·e·s de la maîtrise en sciences de l’information du Québec (Canada). BiblioTECH se déroulera virtuellement, sur la plateforme Zoom. Ce programme est inspiré du [Library Technology career Jumpstart Program at North Carolina State University](https://www.lib.ncsu.edu/jumpstart). <br>
