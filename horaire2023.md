@@ -14,11 +14,11 @@ nav_order: 3
 
 ## Lundi 31 juillet 2023 <a name="lundi"></a>
 
-### 11 h 30 - 12 h 30: Accueil
+### 11 h 30 - 12 h 30 : Accueil
 #### Anglais / Français 
 <details>
   <summary>Description</summary>
-À venir<!---Présentations, plan de la semaine, procédures pour les heures de bureau et les contenus asynchrones.-->
+Présentations, plan de la semaine, procédures pour les heures de bureau et les contenus asynchrones.
   </details>
 
 ### Gestion et organisation des données - Alisa Rod
