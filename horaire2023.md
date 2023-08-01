@@ -187,7 +187,7 @@ Clara Turp est la bibliothécaire des systèmes de découvertes de la Bibliothè
 ## Vendredi 4 août 2023 <a name="vendredi"></a>
 
 ### Accueil quotidien
-#### 12 h 30 - 12 h 40 <br>
+### 12 h 30 - 12 h 40 <br>
 ##### Anglais / Français
 <details>
 <summary>Description</summary>
