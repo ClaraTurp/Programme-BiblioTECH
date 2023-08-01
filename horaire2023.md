@@ -51,7 +51,7 @@ Isabelle Giguère est bibliothécaire-système à la Direction des technologies 
 
 ## Mardi 1 août 2023 <a name="mardi"></a>
 
-### 12 h - 12 h 30 : Accueil quotidien
+### 12 h 30 - 12 h 40 : Accueil quotidien
 #### Anglais / Français 
 <details>
 <summary>Description</summary>
@@ -103,7 +103,7 @@ Robin Desmeules est bibliothécaire en catalogage à l'Université McGill depuis
 
 ## Mercredi 2 août 2023 <a name="mercredi"></a>
 
-### 12 h - 12 h 30 : Accueil quotidien
+### 12 h 30 - 12 h 40 : Accueil quotidien
 #### Anglais / Français 
 <details>
 <summary>Description</summary>
@@ -145,7 +145,7 @@ Scott Goldstein est coordonnateur des services web et technologies des biblioth�
 
 ## Jeudi 3 août 2023 <a name="jeudi"></a>
 
-### 12 h - 12 h 30 : Accueil quotidien
+### 12 h 30 - 12 h 40 : Accueil quotidien
 #### Anglais / Français 
 <details>
 <summary>Description</summary>
@@ -187,7 +187,7 @@ Clara Turp est la bibliothécaire des systèmes de découvertes de la Bibliothè
 ## Vendredi 4 août 2023 <a name="vendredi"></a>
 
 ### Accueil quotidien
-#### 12 h - 12 h 30 <br>
+#### 12 h 30 - 12 h 40 <br>
 ##### Anglais / Français
 <details>
 <summary>Description</summary>
