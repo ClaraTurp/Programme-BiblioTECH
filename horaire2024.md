@@ -1,9 +1,12 @@
 ---
 nav_order: 3
 ---
-# Horaire pour 2023
+# Horaire pour 2024
 [Retour vers la page d'accueil](https://code4libmontreal.github.io/Programme-BiblioTECH/)
 
+L'horaire pour 2024 est bientôt disponible !
+
+<!-- 
 ### Table des matières
 1. [Jour 1 : 31 juillet](#lundi)
 2. [Jour 2 : 1 août](#mardi)
@@ -62,7 +65,7 @@ Récapitulation de la journée précédente et aperçu du programme de la journ�
 #### Anglais 
 <details>
   <summary>Description</summary>
-À venir<!---Une discussion ouverte et sans détour sur ce que les conférencier·ère·s recherchent quand ils et elles affichent un poste. Cette présentation portera notamment sur les meilleures pratiques dans la rédaction d’un CV et d’une lettre de couverture, pour les entrevues, le réseautage, et la recherche d’affichages.-->
+Une discussion ouverte et sans détour sur ce que les conférencier·ère·s recherchent quand ils et elles affichent un poste. Cette présentation portera notamment sur les meilleures pratiques dans la rédaction d’un CV et d’une lettre de couverture, pour les entrevues, le réseautage, et la recherche d’affichages.
   </details>
 <details>
   <summary>Biographies des présentateurs</summary>
@@ -238,3 +241,4 @@ Sarah Lake est bibliothécaire chargée de la conservation numérique à l'Unive
 
 ### 17 h 30 - 18 h 30 : Mot de la fin
 #### Anglais / Français
+-->
